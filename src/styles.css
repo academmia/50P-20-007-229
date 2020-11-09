@@ -1,0 +1,11 @@
+/* styles.css. */
+
+App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ml-1 {
+  margin-left: 0.5rem;
+}
+
